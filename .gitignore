@@ -38,6 +38,9 @@ yarn-error.log*
 logs/
 
 
+*.stl
+*.3mf
+
 # Files added by git-init-repo script
 newYangFit.stl
 yin_yang_rings_16_bb.stl
