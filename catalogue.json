@@ -1,0 +1,11 @@
+{
+  "id": "FibrationTorusPuzzle",
+  "title": "FibrationTorusPuzzle",
+  "oneLiner": "A 3d printable hopf fibration torus segmentation",
+  "demoUrl": "https://github.com/kylemath/FibrationTorusPuzzle",
+  "screenshot": "https://raw.githubusercontent.com/kylemath/FibrationTorusPuzzle/main/screenshot.png",
+  "kind": "project",
+  "categories": ["3d print", "torus", "fibration"],
+  "tags": ["scad", "3dprint"],
+  "status": "published"
+}
